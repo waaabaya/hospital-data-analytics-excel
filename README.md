@@ -36,7 +36,9 @@ Timeline
 
 🔍 Data Preparation & Validation
 
-![Hospital Data Preparation](Screenshots/Hospital_Data_Preparation.png)
+![Hospital Data Preparation](Screenshots/Hospital_Data_Preparation 1.png)
+
+![Hospital Data Preparation](Screenshots/Hospital_Data_Preparation 2.png)
 
 The dataset was prepared and validated before analysis.
 
@@ -64,7 +66,7 @@ LOS Category
 
 📈 Analysis Performed
 
-![Hospital Data Analysis](Screenshots/Hospital_Data_Analytics_Analysis_1.png)
+![Hospital Data Analysis](Screenshots/Hospital_Data_Analytics_Analysis.png)
 
 The project analyzed:
 
