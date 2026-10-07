@@ -35,6 +35,9 @@ Slicers
 Timeline
 
 🔍 Data Preparation & Validation
+
+![Hospital Data Preparation](Screenshots/Hospital_Data_Preparation.png)
+
 The dataset was prepared and validated before analysis.
 
 Data-quality checks included:
@@ -60,6 +63,9 @@ Length of Stay
 LOS Category
 
 📈 Analysis Performed
+
+![Hospital Data Analysis](Screenshots/Hospital_Data_Analytics_Analysis_1.png)
+
 The project analyzed:
 
 Total patients and admissions
