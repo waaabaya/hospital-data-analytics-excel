@@ -83,6 +83,9 @@ Average length of stay by age group and diagnosis
 Hospital charges by diagnosis
 
 📊 Interactive Dashboard
+
+![Hospital Data Analytics Dashboard](Screenshots/Hospital_Data_Analytics_Dashboard.png)
+
 The final Excel dashboard includes:
 
 KPI cards
